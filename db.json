@@ -3,19 +3,19 @@
   {
     "id": 1,
     "name": "Test",
-    "username": "test"
+    "username": "test",
     "email": "sampel@gmail.com"
   },
   {
     "id": 2,
     "name": "Udin",
-    "username": "udin"
+    "username": "udin",
     "email": "udin@gmail.com"
   },
   {
     "id": 3,
     "name": "Idin",
-    "username": "idin"
+    "username": "idin",
     "email": "idin@gmail.com"
   }
   ],
